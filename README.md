@@ -19,11 +19,11 @@
 1. Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```
-git clone https://github.com/Banes31/api_final_yatube-1.git
+git clone https://github.com/Banes31/api_yatube_final.git
 ```
 
 ```
-cd api_final_yatube
+cd api_yatube_final
 ```
 
 2. Установите и активируйте виртуальное окружение
